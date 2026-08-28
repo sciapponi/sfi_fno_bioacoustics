@@ -1,4 +1,4 @@
-# nfo_bioacoustics
+# sfi_fno_bioacoustics
 Mad Scientist tests on fancy bioacoustic networks
 
 ### Modulated siren training:
